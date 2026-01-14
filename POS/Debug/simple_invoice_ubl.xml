@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Invoice xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2">
+  <cbc:ProfileID>reporting:1.0</cbc:ProfileID>
+  <cac:SellerSupplierParty>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID>8901023</cbc:ID>
+      </cac:PartyIdentification>
+    </cac:Party>
+  </cac:SellerSupplierParty>
+  <Invoice>
+    <cbc:ID>EIN00001</cbc:ID>
+    <cbc:UUID>0043e15e-740b-4e1b-889d-504afdb1d1d</cbc:UUID>
+    <cbc:InvoiceTypeCode name="011">388</cbc:InvoiceTypeCode>
+    <cbc:Note>ملاحظات</cbc:Note>
+    <cbc:DocumentCurrencyCode>JOD</cbc:DocumentCurrencyCode>
+    <cbc:TaxCurrencyCode>JOD</cbc:TaxCurrencyCode>
+    <cac:AdditionalDocumentReference>
+      <cbc:ID>ICV</cbc:ID>
+      <cbc:UUID>1</cbc:UUID>
+    </cac:AdditionalDocumentReference>
+    <cac:AccountingSupplierParty>
+      <cac:Party>
+        <cac:PostalAddress>
+          <cac:Country>
+            <cbc:IdentificationCode xmlns:cbc="JO" />
+          </cac:Country>
+        </cac:PostalAddress>
+        <cac:PartyTaxScheme>
+          <cbc xmlns="CompanyID">19059230</cbc>
+          <cac:TaxScheme>
+            <cbc xmlns="ID">VAT</cbc>
+          </cac:TaxScheme>
+        </cac:PartyTaxScheme>
+        <cac:PartyLegalEntity>
+          <cbc xmlns="RegistrationName">عمر عبد الكريم احمد العفيشات</cbc>
+        </cac:PartyLegalEntity>
+      </cac:Party>
+    </cac:AccountingSupplierParty>
+    <cac:InvoiceLine>
+      <cbc:ID>1</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="PCE">1.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="JO">10.00</cbc:LineExtensionAmount>
+      <cac:TaxTotal>
+        <cbc:TaxAmount currencyID="JO">1.60</cbc:TaxAmount>
+        <cbc:RoundingAmount currencyID="JO">11.60</cbc:RoundingAmount>
+        <cac:TaxSubtotal>
+          <cbc:TaxableAmount currencyID="JO">1.60</cbc:TaxableAmount>
+          <cbc:TaxAmount currencyID="JO">1.60</cbc:TaxAmount>
+          <cac:TaxCategory>
+            <cbc:ID schemeAgencyID="6" schemeID="UN/ECE 5305">S</cbc:ID>
+            <cac:TaxScheme>
+              <cbc:ID schemeAgencyID="6" schemeID="UN/ECE 5153">OTH</cbc:ID>
+            </cac:TaxScheme>
+          </cac:TaxCategory>
+        </cac:TaxSubtotal>
+        <cac:TaxSubtotal>
+          <cbc:TaxableAmount currencyID="JO">10.00</cbc:TaxableAmount>
+          <cbc:TaxAmount currencyID="JO">1.60</cbc:TaxAmount>
+          <cac:TaxCategory>
+            <cbc:ID schemeAgencyID="6" schemeID="UN/ECE 5305">S</cbc:ID>
+            <cbc:Percent>16.00</cbc:Percent>
+            <cac:TaxScheme>
+              <cbc:ID schemeAgencyID="6" schemeID="UN/ECE 5153">VAT</cbc:ID>
+            </cac:TaxScheme>
+          </cac:TaxCategory>
+        </cac:TaxSubtotal>
+      </cac:TaxTotal>
+      <cac:Item>
+        <cbc:Name>Malboro</cbc:Name>
+      </cac:Item>
+      <cac:Price>
+        <cbc:PriceAmount currencyID="JO">10.00</cbc:PriceAmount>
+        <cac:AllowanceCharge>
+          <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+          <cbc:AllowanceChargeReason>DISCOUNT</cbc:AllowanceChargeReason>
+          <cbc:Amount currencyID="JO">0.00</cbc:Amount>
+        </cac:AllowanceCharge>
+      </cac:Price>
+    </cac:InvoiceLine>
+    <cac:LegalMonetaryTotal>
+      <cbc:TaxExclusiveAmount currencyID="JO">10</cbc:TaxExclusiveAmount>
+      <cbc:TaxInclusiveAmount currencyID="JO">11.60</cbc:TaxInclusiveAmount>
+      <cbc:AllowanceTotalAmount currencyID="JO">0.00</cbc:AllowanceTotalAmount>
+      <cbc:PrepaidAmount currencyID="JO">0</cbc:PrepaidAmount>
+      <cbc:PayableAmount currencyID="JO">11.60</cbc:PayableAmount>
+    </cac:LegalMonetaryTotal>
+  </Invoice>
+</Invoice>

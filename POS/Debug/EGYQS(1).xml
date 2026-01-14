@@ -1,0 +1,2868 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EGYQS</name>
+    </assembly>
+    <members>
+        <member name="T:EGYQS.DataSet1">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.DataSet1.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.DataSet1.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.DataSet1.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsAccountBalance">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsAccountBalance.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsAccountBalance.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsAccountBalance.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsArba7Details">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsArba7Details.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsArba7Details.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsArba7Details.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsBanks">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsBanks.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsBanks.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsBanks.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsBranches">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsBranches.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsBranches.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsBranches.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCurrencyDetails">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCurrencyDetails.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCurrencyDetails.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCurrencyDetails.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustBalance">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustBalance.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustBalance.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustBalance.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustLastPay">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustLastPay.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustLastPay.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustLastPay.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustomers">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustomers.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustomers.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsCustomers.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsDecisionHelp">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsDecisionHelp.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsDecisionHelp.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsDecisionHelp.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsEmpInv">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsEmpInv.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsEmpInv.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsEmpInv.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsEmployess">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsEmployess.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsEmployess.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsEmployess.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.DSHeader">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.DSHeader.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.DSHeader.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.DSHeader.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.DSInv">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.DSInv.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.DSInv.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.DSInv.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsInvByTypeClient">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsInvByTypeClient.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsInvByTypeClient.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsInvByTypeClient.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsInvdetails">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsInvdetails.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsInvdetails.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsInvdetails.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNetProfit">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNetProfit.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNetProfit.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNetProfit.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNkdActs">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNkdActs.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNkdActs.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNkdActs.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNkdSalePurchTotal">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNkdSalePurchTotal.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNkdSalePurchTotal.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsNkdSalePurchTotal.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSafeGrd">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSafeGrd.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSafeGrd.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSafeGrd.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSafesTransfer">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSafesTransfer.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSafesTransfer.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSafesTransfer.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSummary">
+            <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSummary.DataTable1DataTable">
+            <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSummary.DataTable1Row">
+            <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:EGYQS.dsSummary.DataTable1RowChangeEvent">
+            <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="P:EGYQS.Form1.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="T:EGYQS.Forms.Form1">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ApplicationMenu1_ExitButtonImage">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ApplicationMenu1_OptionsButtonImage">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnArea_Text">
+            <summary>
+              Looks up a localized string similar to بيانات المناطق.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnBanks_Text">
+            <summary>
+              Looks up a localized string similar to تعريف البنوك.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnBranches_Text">
+            <summary>
+              Looks up a localized string similar to تعريف الفروع.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnCities_Text">
+            <summary>
+              Looks up a localized string similar to بيانات المدن.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnCompanies_Text">
+            <summary>
+              Looks up a localized string similar to تعريف الشركات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnCostCenter_Text">
+            <summary>
+              Looks up a localized string similar to مراكز التكلفة.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnCountries_Text">
+            <summary>
+              Looks up a localized string similar to بيانات الدول.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnCurrencies_Text">
+            <summary>
+              Looks up a localized string similar to تعريف الأصناف.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnEmpAcc_Text">
+            <summary>
+              Looks up a localized string similar to ارصدة حسابات الموظفين.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnFoundation_Text">
+            <summary>
+              Looks up a localized string similar to بيانات المؤسســـة.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnKhznAcc_Text">
+            <summary>
+              Looks up a localized string similar to ارصدة حسابات الخزن.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnOpenJournal_Text">
+            <summary>
+              Looks up a localized string similar to القيود الإفتتاحية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnPriceShow_Text">
+            <summary>
+              Looks up a localized string similar to فاتورة عرض سعر.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnRest_Text">
+            <summary>
+              Looks up a localized string similar to المطاعم.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnRpt1_Text">
+            <summary>
+              Looks up a localized string similar to اجمالي فواتير بحسب
+            نوع الفاتورة .
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnRpt2_Text">
+            <summary>
+              Looks up a localized string similar to اجمالي فواتير
+            بحسب العملاء.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnRpt3_Text">
+            <summary>
+              Looks up a localized string similar to مبيعات ومشتريات
+            تفصيلية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnSafes_Text">
+            <summary>
+              Looks up a localized string similar to تعريف المخازن.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnServices_Text">
+            <summary>
+              Looks up a localized string similar to تعريف الخدمات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnServicesInv_Text">
+            <summary>
+              Looks up a localized string similar to فاتورة خدمات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnSMS_Text">
+            <summary>
+              Looks up a localized string similar to إعدادات SMS.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnTreasuries_Text">
+            <summary>
+              Looks up a localized string similar to تعريف الخزن.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnUnits_Text">
+            <summary>
+              Looks up a localized string similar to الوحدات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.btnYearEnd_Text">
+            <summary>
+              Looks up a localized string similar to إقفال السنة المالية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button1_Text">
+            <summary>
+              Looks up a localized string similar to تقرير الحركة اليومية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button10_Text">
+            <summary>
+              Looks up a localized string similar to الحوافز والجزاءات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button11_Text">
+            <summary>
+              Looks up a localized string similar to النسخ الاحتياطي واستعادة قاعدة البيانات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button12_Text">
+            <summary>
+              Looks up a localized string similar to شراء البرنامج.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button13_Text">
+            <summary>
+              Looks up a localized string similar to تفعيل البرنامج.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button14_Text">
+            <summary>
+              Looks up a localized string similar to مجموعات الأصناف.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button15_Text">
+            <summary>
+              Looks up a localized string similar to فاتورة المبيعات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button16_Text">
+            <summary>
+              Looks up a localized string similar to سندات قبض خارجية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button17_Text">
+            <summary>
+              Looks up a localized string similar to سندات صرف خارجية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button18_Text">
+            <summary>
+              Looks up a localized string similar to شجرة الحسابات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button19_Text">
+            <summary>
+              Looks up a localized string similar to مردود المبيعات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button2_Text">
+            <summary>
+              Looks up a localized string similar to المجموعات الضريبية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button20_Text">
+            <summary>
+              Looks up a localized string similar to مخزون أول المــــدة.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button21_Text">
+            <summary>
+              Looks up a localized string similar to القيود اليومية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button22_Text">
+            <summary>
+              Looks up a localized string similar to افتراضي الطباعة.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button23_Text">
+            <summary>
+              Looks up a localized string similar to الأصناف التي ستنتهي صلاحيتها.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button24_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button24_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button24_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=805,Y=263}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button24_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button24_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 17.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button24_Text">
+            <summary>
+              Looks up a localized string similar to صافي الارباح والمبيعات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button24_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button25_Image">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button25_Text">
+            <summary>
+              Looks up a localized string similar to سندات قبض داخلية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button26_Image">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button26_Text">
+            <summary>
+              Looks up a localized string similar to سندات صرف داخلية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button27_Text">
+            <summary>
+              Looks up a localized string similar to كشف حساب.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button28_Text">
+            <summary>
+              Looks up a localized string similar to ميزان المراجعة رئيسي.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button29_Text">
+            <summary>
+              Looks up a localized string similar to ميزان المراجعة تحليلي.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button3_Text">
+            <summary>
+              Looks up a localized string similar to الرقابة على بيع وشراء الأصناف.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button30_Text">
+            <summary>
+              Looks up a localized string similar to أرباح وخسائر حسابات رئيسية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button31_Text">
+            <summary>
+              Looks up a localized string similar to أرباح وخسائر حسابات تحليلية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button32_Text">
+            <summary>
+              Looks up a localized string similar to ميزانية عمومية حسابات رئيسية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button33_Text">
+            <summary>
+              Looks up a localized string similar to ميزانية عمومية حسابات تحليلية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button34_Text">
+            <summary>
+              Looks up a localized string similar to النقل من مخزن الى آخر.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button35_Text">
+            <summary>
+              Looks up a localized string similar to كشف جرد المخازن.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button36_Text">
+            <summary>
+              Looks up a localized string similar to ارصدة المخزن حتى تاريخ.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button37_Text">
+            <summary>
+              Looks up a localized string similar to صنف باجمالي الحركــــــــات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button38_Text">
+            <summary>
+              Looks up a localized string similar to حركـــــــــــــة صنف محددة.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button39_Text">
+            <summary>
+              Looks up a localized string similar to عرض سندات القبض والصرف خارجية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button4_Text">
+            <summary>
+              Looks up a localized string similar to اجمالي المبيعات والمشتريات جهة عمل أو عميل.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button40_Text">
+            <summary>
+              Looks up a localized string similar to عرض سندات القبض والصرف داخلية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button41_Text">
+            <summary>
+              Looks up a localized string similar to تقرير تحليل المبيعات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button42_Text">
+            <summary>
+              Looks up a localized string similar to تقرير حركة الخزينة.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button43_Text">
+            <summary>
+              Looks up a localized string similar to صافي مبيعات وارباح.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button44_Text">
+            <summary>
+              Looks up a localized string similar to ارصدة حسابات العملاء.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button45_Text">
+            <summary>
+              Looks up a localized string similar to حركة اخر سداد للعملاء.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button46_Text">
+            <summary>
+              Looks up a localized string similar to معدل الدوران والركود للأصناف.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button47_Text">
+            <summary>
+              Looks up a localized string similar to كشف حســـــاب  عميل.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button48_Text">
+            <summary>
+              Looks up a localized string similar to مبيعات ومشتريات موظف.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button49_Text">
+            <summary>
+              Looks up a localized string similar to الاجمالي جهات مختلفة.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button5_Text">
+            <summary>
+              Looks up a localized string similar to بيانات العملاء / الموردين.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button50_Text">
+            <summary>
+              Looks up a localized string similar to اجمالي المبيعات والمشتريات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button51_Text">
+            <summary>
+              Looks up a localized string similar to اضافة مستخدمين.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button52_Text">
+            <summary>
+              Looks up a localized string similar to صلاحيات المستخدمين.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button53_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button53_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button53_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=72,Y=263}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button53_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button53_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 18.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button53_Text">
+            <summary>
+              Looks up a localized string similar to المخزن.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button53_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button54_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button54_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button54_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=517,Y=263}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button54_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button54_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 19.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button54_Text">
+            <summary>
+              Looks up a localized string similar to اجمالي فواتير بحسب نوع الفاتورة .
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button54_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button55_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button55_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button55_ImeMode">
+            <summary>
+              Looks up a localized resource of type System.Windows.Forms.ImeMode similar to NoControl.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button55_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=517,Y=452}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button55_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button55_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 20.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button55_Text">
+            <summary>
+              Looks up a localized string similar to النسخ الاحتياطي واستعادة.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button55_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button56_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button56_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button56_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=210,Y=452}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button56_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button56_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 21.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button56_Text">
+            <summary>
+              Looks up a localized string similar to المبيعات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button56_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button57_Text">
+            <summary>
+              Looks up a localized string similar to تغيير كلمة المرور.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button58_Text">
+            <summary>
+              Looks up a localized string similar to تغيير كلمة المرور.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button59_Text">
+            <summary>
+              Looks up a localized string similar to خصائص المستخدم.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button6_Text">
+            <summary>
+              Looks up a localized string similar to تعريف الادارات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button60_Text">
+            <summary>
+              Looks up a localized string similar to فاتورة المشتريات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button61_Text">
+            <summary>
+              Looks up a localized string similar to مردود المشتريات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button62_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button62_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button62_ImeMode">
+            <summary>
+              Looks up a localized resource of type System.Windows.Forms.ImeMode similar to NoControl.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button62_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=72,Y=452}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button62_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button62_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 22.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button62_Text">
+            <summary>
+              Looks up a localized string similar to الشراء.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button62_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button63_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button63_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button63_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=216,Y=263}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button63_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button63_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 23.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button63_Text">
+            <summary>
+              Looks up a localized string similar to الأصناف.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button63_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button64_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button64_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button64_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=354,Y=263}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button64_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button64_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 24.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button64_Text">
+            <summary>
+              Looks up a localized string similar to الزبائن.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button64_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button65_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button65_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=805,Y=452}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button65_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button65_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 25.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button65_Text">
+            <summary>
+              Looks up a localized string similar to الخروج.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button65_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button66_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button66_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button66_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=661,Y=263}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button66_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button66_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 26.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button66_Text">
+            <summary>
+              Looks up a localized string similar to كشف حساب عميل.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button66_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button67_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button67_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button67_Image">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button67_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=661,Y=452}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button67_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button67_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 27.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button67_Text">
+            <summary>
+              Looks up a localized string similar to اضافة مستخدمين.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button67_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button68_Enabled">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button68_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Microsoft Sans Serif, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button68_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=354,Y=452}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button68_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=138, Height=159}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button68_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 28.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button68_Text">
+            <summary>
+              Looks up a localized string similar to مرتجع مبيعات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button68_TextAlign">
+            <summary>
+              Looks up a localized resource of type System.Drawing.ContentAlignment similar to BottomCenter.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button69_Image">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button69_Text">
+            <summary>
+              Looks up a localized string similar to عن البرنامج.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button7_Text">
+            <summary>
+              Looks up a localized string similar to تعريف الأقسام.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button70_Text">
+            <summary>
+              Looks up a localized string similar to كاشير مطعم.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button8_Text">
+            <summary>
+              Looks up a localized string similar to تعريف الموظف.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Button9_Text">
+            <summary>
+              Looks up a localized string similar to دفع الرواتب.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblBranch_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=76, Height=22}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblBranch_Text">
+            <summary>
+              Looks up a localized string similar to                        .
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblDash1_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Segoe UI, Size=9, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblDash1_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=25, Height=22}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblDash1_Text">
+            <summary>
+              Looks up a localized string similar to       .
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblDash2_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Segoe UI, Size=9, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblDash2_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=25, Height=22}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblDash2_Text">
+            <summary>
+              Looks up a localized string similar to       .
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblDash3_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=25, Height=22}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblDash3_Text">
+            <summary>
+              Looks up a localized string similar to       .
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblIsTrial_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=19, Height=22}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblIsTrial_Text">
+            <summary>
+              Looks up a localized string similar to     .
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblTime_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Segoe UI, Size=9, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblTime_RightToLeft">
+            <summary>
+              Looks up a localized resource of type System.Windows.Forms.RightToLeft similar to No.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblTime_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=106, Height=22}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.lblTime_Text">
+            <summary>
+              Looks up a localized string similar to                                  .
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.MainMenuItem1_Text">
+            <summary>
+              Looks up a localized string similar to MainMenuItem1.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Menu1_GenerateMember">
+            <summary>
+              Looks up a localized resource of type System.Boolean similar to False.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.MenuItem1_Text">
+            <summary>
+              Looks up a localized string similar to مجموعات الطاولات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.MenuItem2_Text">
+            <summary>
+              Looks up a localized string similar to الطاولات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.PictureBox1_Dock">
+            <summary>
+              Looks up a localized resource of type System.Windows.Forms.DockStyle similar to Fill.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.PictureBox1_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=0,Y=172}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.PictureBox1_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1284, Height=544}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.PictureBox1_SizeMode">
+            <summary>
+              Looks up a localized resource of type System.Windows.Forms.PictureBoxSizeMode similar to StretchImage.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.PictureBox1_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 31.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Ribbon1_ApplicationToolTip">
+            <summary>
+              Looks up a localized resource of type Divelements.SandRibbon.SuperToolTip.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Ribbon1_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Tahoma, Size=8, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Ribbon1_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=0,Y=0}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Ribbon1_RightToLeft">
+            <summary>
+              Looks up a localized resource of type System.Windows.Forms.RightToLeft similar to Yes.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Ribbon1_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1284, Height=172}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Ribbon1_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 0.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab1_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=53}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab1_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1282, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab1_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 0.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab1_Text">
+            <summary>
+              Looks up a localized string similar to البيانات الأساسية.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab10_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=53}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab10_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1282, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab10_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 10.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab10_Text">
+            <summary>
+              Looks up a localized string similar to اجمالي بيع وشراء.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab11_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=53}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab11_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1282, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab11_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 11.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab11_Text">
+            <summary>
+              Looks up a localized string similar to اعدادات النظام.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab12_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=53}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab12_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1282, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab12_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 12.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab12_Text">
+            <summary>
+              Looks up a localized string similar to الدعم الفني.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab2_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=53}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab2_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1282, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab2_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 1.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab2_Text">
+            <summary>
+              Looks up a localized string similar to العملاء.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab3_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=53}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab3_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1282, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab3_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 2.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab3_Text">
+            <summary>
+              Looks up a localized string similar to شئون الموظفين.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab4_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=53}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab4_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1282, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab4_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 3.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab4_Text">
+            <summary>
+              Looks up a localized string similar to مبيعات ومشتريات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab5_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=53}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab5_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1282, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab5_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 4.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab5_Text">
+            <summary>
+              Looks up a localized string similar to سندات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab6_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=53}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab6_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1282, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab6_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 5.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab6_Text">
+            <summary>
+              Looks up a localized string similar to الحسابات.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab7_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=52}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab7_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1301, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab7_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 7.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab7_Text">
+            <summary>
+              Looks up a localized string similar to المخازن.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab8_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=1,Y=53}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab8_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1282, Height=90}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab8_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 8.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.RibbonTab8_Text">
+            <summary>
+              Looks up a localized string similar to دعم اتخاذ القرار.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Timer1_TrayLocation">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=124,Y=17}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.Timer2_TrayLocation">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=213,Y=17}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ToolStrip1_Dock">
+            <summary>
+              Looks up a localized resource of type System.Windows.Forms.DockStyle similar to Bottom.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ToolStrip1_Location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=0,Y=716}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ToolStrip1_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=1284, Height=25}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ToolStrip1_TabIndex">
+            <summary>
+              Looks up a localized resource of type System.Int32 similar to 2.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ToolStrip1_Text">
+            <summary>
+              Looks up a localized string similar to ToolStrip1.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ToolStrip1_TrayLocation">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Point similar to {X=17,Y=17}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ToolStripLabel1_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=0, Height=22}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.ToolStripLabel2_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=16, Height=22}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.txtLoggedUser_Font">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Font similar to [Font: Name=Segoe UI, Size=9, Units=3, GdiCharSet=1, GdiVerticalFont=False].
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.txtLoggedUser_Size">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Size similar to {Width=85, Height=22}.
+            </summary>
+        </member>
+        <member name="P:EGYQS.Forms.Form1.txtLoggedUser_Text">
+            <summary>
+              Looks up a localized string similar to                           .
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmAbout.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmAccountBalance.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmAccountsTree.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmActs.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmActsInvTotal.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmAddUsers.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmAreas.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmBackupRstore.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmBanks.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmBranches.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmBuyApp.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmChangePwd.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCities.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCostCenter.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCountries.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCurrecyTotalGrd.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCurrenciesBalances.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmcurrency.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCurrencyDetails.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCurrencyPrice.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCustAccount.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCustAccountGet.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCustLastPay.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmCustomers.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmDecisionHelp.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmDepartments.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmEmpInvs.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmEmployees.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmEmpSalaryAddSub.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmFinancialYearClose.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmFonudation.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmGroups.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmInvDetails.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmInvRptType.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmInvSumByClient.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmInvSumByType.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmItemsExpire.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmManagement.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmNetsales.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmNewCompany.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmNkdFoundRpt.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmNkdTotSalePurch.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmNkdTotSalePurchActCust.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.dfh.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmRestrictions.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmRptDailyProcess.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmRptEmpAcc.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmRptInvAnalysis.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmRptKhzna.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmRptKhznAcc.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmRptSalary.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSafeGrd.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSafeGrdToDate.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSafes.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSafesTransfer.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSalaryPay.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSandD.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSandQ.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSandQD.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSandQD_.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSandSD.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSandSD_.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSerial.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmServerSetting.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmServices.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmServicesInv.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSMSSett.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSummaryD.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmSummaryQ.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmTawlaGroups.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmTawlas.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmTaxGroups.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmTaxRptPeriod.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmTreasury.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmUnits.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmUserLogin.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmUserSettings.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:EGYQS.frmUsersPermissions.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="T:My.Resources.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._090">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347890539_Emblem_Money_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347890646_Money">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347890998_reports">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347891452_gnome_mime_application_vnd_lotus_1_2_3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347891553_gnumeric">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347891645_chart">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347891735_20">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347915742_agency">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347915742_agency1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347915944_globe_green">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347915944_globe_green1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347916062_globe_red">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347916062_globe_red1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347916099_globe_yellow">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347916137_Bank">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347916289_contacts">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347916442_currency_dollar_green">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347916442_currency_dollar_green1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347916607_testimonials">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347961078_call_group">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347962148_kpackage">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1347977291_application_vnd_ms_excel">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348936351_sign_up">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348936478_ordering">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348936533_Sales_by_Payment_Method_rep">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348937102_edit_notes">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348937248_credit_cards">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348937336_preferences_contact_list">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348937517_money_bag">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348937597_money">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348937740_view_tree">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348937809_todo_list_add">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1348964394_money">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349232538_order_history">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349232961_rafraichir_bleu">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349233068_bar_chart">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349233174_14">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349233205_balance">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349233408_shine_14">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349233626_schedule">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349234253_folder">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349234340_diagram_11">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349234387_user_group_new">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349234457_Login_Manager">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349234740_format_indent_more">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349234982_Help">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349235297_desktop_computer">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349235566_document_add">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349235690_document_edit">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1349235767_message">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1478657232_Businessman">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1478660363_09">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1478660490_custom_reports">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1478660592_xfce_system_settings">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1478661553_Purple_Shop">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1478661667_Green_Buy">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1478661750_Green_Add">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1478661827_Black_User">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1478662022_Log_Out">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1478662530_Recover_arrow">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._800">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._800_Recovered">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._800_Recovered1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._800_Recovered2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._800_Recovered3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._800_Recovered4">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._8001">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._8002">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._exit">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._new">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._next">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Actions_go_down_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Actions_tab_new_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Actions_user_properties_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Actions_view_list_tree_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Add_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Add_icon16">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Apps_timevault_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Back_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.bank_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Button_Download_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Buy">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.check_user_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Clients_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.color_management_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.content_tree_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.data_backup_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.data_management_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.delete">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.download_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.File_New_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Files_New_File_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Files_New_Window_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.first">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Firstt">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.green_dollar_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.hm">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.hm1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.home_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Image1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.images">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Inventory_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.k_timer_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.larger_Activate_Icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.last">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Lock_Unlock_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.login_dialog_bg">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.login_key">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.login_key_sign_thumb11156306">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.logout">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.love_png">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.modify_key_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.money_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.money_icon1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.new_file_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.nopic">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.office_building_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Office_Client_Male_Light_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.previous">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.print">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.product_sales_report_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.safe_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.safe_icon1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.safe_icon2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Safe_icon3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.sales_report_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.save">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.search_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.shopping_basket_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Stock_Folder_Blue_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.String1">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.User_Clients_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.user_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.web_management_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.windows_69_wallpaper_1920x1080">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.world_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
