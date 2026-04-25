@@ -1,0 +1,14 @@
+Debug/
+Release/
+bin/
+obj/
+
+*.exe
+*.dll
+*.zip
+
+*.log
+
+.vs/
+*.user
+*.suo
